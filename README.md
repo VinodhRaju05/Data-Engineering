@@ -1,15 +1,8 @@
-# CS536 Data Engineering Project — Team Shazam
-
-**Team:** Shazam  
-**Members:** Vinodh Raju 
-**University:** Portland State University  
-**Course:** Data Engineering
-
----
+# CS536 Data Engineering Project
 
 ## Project Overview
 
-This project builds a real-time data pipeline that collects, processes, stores, and visualizes GPS sensor data from TriMet — Portland's public transit system. TriMet buses emit two types of data: BreadCrumb records (GPS location and speed) and StopEvent records (passenger boardings and alightings at each stop).
+This project builds a real-time data pipeline that collects, processes, stores, and visualizes GPS sensor data from TriMet Portland's public transit system. TriMet buses emit two types of data: BreadCrumb records (GPS location and speed) and StopEvent records (passenger boardings and alightings at each stop).
 
 ---
 
